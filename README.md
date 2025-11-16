@@ -130,13 +130,12 @@ The goal was to equip City Hospital with **real-time, data-backed visibility** i
 | Olivia Brown | $12K |
 
 **Dashboard Preview:**  
-![Hospital Performance Dashboard] <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/8f715a36-1db3-4569-a6db-3e38f5b6ece0" />
+[Hospital Performance Dashboard] <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/8f715a36-1db3-4569-a6db-3e38f5b6ece0" />
 
 **Filter Highlights:**  
 | Filter | Dashboard Preview | Observation |
 |--------|-------------------|--------------|
-| 👩‍⚕️ Female Doctors | <img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/d31ef2e0-ba22-47eb-8338-dfb91373368e" />
-(Ava Adams led with $25K revenue.) |
+| 👩‍⚕️ Female Doctors | <img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/d31ef2e0-ba22-47eb-8338-dfb91373368e" /> | Ava Adams led with $25K revenue. |
 | 👨‍⚕️ Male Doctors | ![Male Doctors Filter 2](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/1b83cb16-12b6-4944-bff5-4235bbef303b" />
 ) | Liam Thompson generated the highest $20K revenue. |
 | 👩 Female Patients | ![Female Patients Filter 2](<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/ecbd600f-b764-4918-ab8b-9a440ae6c297" />

@@ -130,28 +130,20 @@ The goal was to equip City Hospital with **real-time, data-backed visibility** i
 | Olivia Brown | $12K |
 
 **Dashboard Preview:**  
-[Hospital Performance Dashboard] <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/8f715a36-1db3-4569-a6db-3e38f5b6ece0" />
+**Hospital Performance Dashboard** <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/8f715a36-1db3-4569-a6db-3e38f5b6ece0" />
 
 **Filter Highlights:**  
 | Filter | Dashboard Preview | Observation |
 |--------|-------------------|--------------|
 | 👩‍⚕️ Female Doctors | <img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/d31ef2e0-ba22-47eb-8338-dfb91373368e" /> | Ava Adams led with $25K revenue. |
-| 👨‍⚕️ Male Doctors | ![Male Doctors Filter 2](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/1b83cb16-12b6-4944-bff5-4235bbef303b" />
-) | Liam Thompson generated the highest $20K revenue. |
-| 👩 Female Patients | ![Female Patients Filter 2](<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/ecbd600f-b764-4918-ab8b-9a440ae6c297" />
-) | Female patients had higher visit frequency. |
-| 👨 Male Patients | ![Male Patients Filter 2](<img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/88bf85dc-52fa-4649-96d2-029c5160c815" />
-) | Male patients contributed more to overall revenue. |
-| 📍 California | ![California State Filter 2](<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/1a4f2c7c-ba02-4e5d-bd43-e9c6347df92f" />
-) | Most patient interactions from Neurology and Cardiology. |
-| 📍 New York | ![New York State Filter 2](<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/ad82a608-7d0c-45e7-a261-fe9be5b7845a" />
-) | Dermatology and Radiology dominated revenue. |
-| 📅 2021 | ![2021 Performance](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/7fe5be1b-8cfe-4f12-8c94-374b5c8649ac" />
-) | Limited operations but balanced gender distribution. |
-| 📅 2022 | ![2022 Performance](<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/5e5be9ff-98cc-431b-817a-57b9c668b4d9" />
-) | Record-breaking year with highest profit. |
-| 📅 2023 | ![2023 Performance](<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/78de86e7-720e-4fee-9556-a3100a3e0f5d" />
-) | Decline in both doctor engagement and patient visits. |
+| 👨‍⚕️ Male Doctors | <img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/1b83cb16-12b6-4944-bff5-4235bbef303b" /> | Liam Thompson generated the highest $20K revenue. |
+| 👩 Female Patients | <img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/ecbd600f-b764-4918-ab8b-9a440ae6c297" /> | Female patients had higher visit frequency. |
+| 👨 Male Patients | <img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/88bf85dc-52fa-4649-96d2-029c5160c815" /> | Male patients contributed more to overall revenue. |
+| 📍 California | <img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/1a4f2c7c-ba02-4e5d-bd43-e9c6347df92f" /> | Most patient interactions from Neurology and Cardiology. |
+| 📍 New York | <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/ad82a608-7d0c-45e7-a261-fe9be5b7845a" /> | Dermatology and Radiology dominated revenue. |
+| 📅 2021 | <img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/7fe5be1b-8cfe-4f12-8c94-374b5c8649ac" /> | Limited operations but balanced gender distribution. |
+| 📅 2022 | <img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/5e5be9ff-98cc-431b-817a-57b9c668b4d9" /> | Record-breaking year with highest profit. |
+| 📅 2023 | <img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/78de86e7-720e-4fee-9556-a3100a3e0f5d" /> | Decline in both doctor engagement and patient visits. |
 
 ---
 

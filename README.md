@@ -1,2 +1,179 @@
-# CITY-HOSPITAL
+# 🏥 City Hospital Data Analysis Project 
 A data-driven analytics project focused on improving financial performance, operational efficiency, and workforce insights for a modern healthcare institution.
+
+### *A Power BI project for financial and operational intelligence*
+---
+
+## 📘 Project Overview  
+City Hospital, a renowned medical institution, recognised the growing need to **leverage data for better financial and operational decision-making**.  
+For years, strategic choices were driven by intuition and historical trends, leaving room for inefficiencies, resource imbalance, and lost opportunities.  
+
+This project uses **Microsoft Power BI** to transform their Excel-based transaction data into **interactive, data-driven dashboards** that reveal financial health, doctor and patient performance, and hospital-wide insights.  
+
+---
+
+## 🧩 Tools & Data  
+- **Tool Used:** Power BI  
+- **Data Source:** Excel (Hospital Transaction Dataset)  
+- **Core Process:**
+  1️⃣ Data Cleaning and Integration  
+  2️⃣ Data Modelling and Relationship Building  
+  3️⃣ DAX Calculations for Key Metrics  
+  4️⃣ Interactive Dashboard Creation  
+
+---
+
+## 🗂️ Dataset Structure  
+The dataset included financial, procedural, and demographic information for both **doctors and patients**, with columns such as:
+
+| Column Name | Description |
+|--------------|-------------|
+| TransactionID | Unique identifier for each hospital transaction |
+| Date | Date of the transaction |
+| RevenueAmount | Total revenue from a procedure |
+| ExpensesAmount | Total cost of the procedure |
+| Doctor_FirstName / LastName | Doctor’s name |
+| Doctor_Gender | Gender of the doctor |
+| Specialty | Doctor’s medical specialty |
+| PatientID | Unique identifier for each patient |
+| Patients_FirstName / LastName | Patient’s name |
+| Patients_Gender | Gender of the patient |
+| ProcedureName | Name of the medical procedure |
+| Category | Procedure category (e.g., Surgery, Radiology) |
+| Country / City / State | Hospital location |
+| PostalCode | Postal code of the hospital branch |
+
+---
+
+## 🎯 Project Objectives  
+The goal was to equip City Hospital with **real-time, data-backed visibility** into its operations by addressing the following questions:
+
+1️⃣ What are the **total revenue, expenses, and profit margins** over time?  
+ 2️⃣ Which **specialties and procedure categories** generate the most revenue or income?  
+3️⃣ Who are the **top-performing doctors and high-impact patients**?  
+4️⃣ How do **gender, specialty, and state** influence performance?  
+5️⃣ What is the **trend of patient visits and doctor distribution** over time?  
+
+---
+
+## 📊 Dashboard 1: Hospital Transaction Dashboard  
+### *Focus: Financial Health and Revenue Trends*
+
+**Key KPIs:**
+- 💰 **Total Revenue:** $274K  
+- 💸 **Total Expenses:** $189K  
+- 💹 **Total Profit:** $84.14K  
+- 📈 **Profit Margin:** 30.8%  
+- 👨‍⚕️ **No. of Doctors:** 81  
+- 🧍‍♂️ **No. of Patients:** 86  
+
+**Insights:**  
+- Profit margin remains stable at ~31%, indicating efficient cost control.  
+- Dermatology, Cardiology, and Neurology are the most profitable specialties.  
+- Wellness and Radiology categories lead total revenue generation.  
+- Year 2022 marked the **highest quarterly growth**, followed by a dip in 2023, signaling possible operational slowdowns.  
+
+**Dashboard Preview:**  
+![Hospital Transaction Dashboard - Main](path/to/Hospital_Transaction_Main.png)
+
+**Filter Highlights:**  
+| Filter | Dashboard Preview | Observation |
+|--------|-------------------|--------------|
+| 👩‍⚕️ Doctor Gender – Female | ![Female Doctors Filter](path/to/Female_Doctor_Filter.png) | Female doctors generated ~$130K revenue (~47% share). |
+| 👨‍⚕️ Doctor Gender – Male | ![Male Doctors Filter](path/to/Male_Doctor_Filter.png) | Male doctors led with ~$144K revenue, slightly higher profit margin. |
+| 👩 Patients – Female | ![Female Patients Filter](path/to/Female_Patient_Filter.png) | Strong engagement in Dermatology and Cardiology. |
+| 👨 Patients – Male | ![Male Patients Filter](path/to/Male_Patient_Filter.png) | Neurology procedures dominated male patient revenue. |
+| 📍 California | ![California State Filter](path/to/California_Filter.png) | Outperformed New York in overall revenue and efficiency. |
+| 📍 New York | ![New York State Filter](path/to/NewYork_Filter.png) | Dermatology was the leading department. |
+| 📅 2021 | ![Year 2021 Filter](path/to/2021_Filter.png) | Post-pandemic recovery, lowest annual revenue. |
+| 📅 2022 | ![Year 2022 Filter](path/to/2022_Filter.png) | Peak operational performance. |
+| 📅 2023 | ![Year 2023 Filter](path/to/2023_Filter.png) | Noticeable decline, warrants investigation. |
+
+---
+
+## 📊 Dashboard 2: Hospital Performance Dashboard  
+### *Focus: Workforce, Patient Distribution, and Specialty Mix*
+
+**Key KPIs:**
+- 💰 **Total Revenue:** $274K  
+- 💸 **Total Expenses:** $189K  
+- 💹 **Total Profit:** $84.14K  
+- 📊 **Profit Margin:** 30.8%  
+- 👨‍⚕️ **Doctors:** 81 (39 Female, 42 Male)  
+- 🧍‍♂️ **Patients:** 86 (47 Female, 39 Male)
+
+**Top 5 Doctors (by Revenue):**
+| Doctor | Revenue |
+|--------|----------|
+| Ava Adams | $25K |
+| Liam Thompson | $20K |
+| Benjamin Lee | $16K |
+| Emma White | $13K |
+| William Scott | $12K |
+
+**Top 5 Patients (by Revenue):**
+| Patient | Revenue |
+|----------|----------|
+| Harper Lewis | $17K |
+| Ethan Clark | $15K |
+| Mia Williams | $13K |
+| Mia Anderson | $12K |
+| Olivia Brown | $12K |
+
+**Dashboard Preview:**  
+![Hospital Performance Dashboard - Main](path/to/Hospital_Performance_Main.png)
+
+**Filter Highlights:**  
+| Filter | Dashboard Preview | Observation |
+|--------|-------------------|--------------|
+| 👩‍⚕️ Female Doctors | ![Female Doctors Filter 2](path/to/Female_Doctor_Performance.png) | Ava Adams led with $25K revenue. |
+| 👨‍⚕️ Male Doctors | ![Male Doctors Filter 2](path/to/Male_Doctor_Performance.png) | Liam Thompson generated the highest $20K revenue. |
+| 👩 Female Patients | ![Female Patients Filter 2](path/to/Female_Patient_Performance.png) | Female patients had higher visit frequency. |
+| 👨 Male Patients | ![Male Patients Filter 2](path/to/Male_Patient_Performance.png) | Male patients contributed more to overall revenue. |
+| 📍 California | ![California State Filter 2](path/to/California_Performance.png) | Most patient interactions from Neurology and Cardiology. |
+| 📍 New York | ![New York State Filter 2](path/to/NewYork_Performance.png) | Dermatology and Radiology dominated revenue. |
+| 📅 2021 | ![2021 Performance](path/to/2021_Performance.png) | Limited operations but balanced gender distribution. |
+| 📅 2022 | ![2022 Performance](path/to/2022_Performance.png) | Record-breaking year with highest profit. |
+| 📅 2023 | ![2023 Performance](path/to/2023_Performance.png) | Decline in both doctor engagement and patient visits. |
+
+---
+
+## 📈 Key Insights & Recommendations  
+
+### 🔹 Financial Insights  
+- Maintain Dermatology, Cardiology, and Neurology as **core specialties** — they account for over 60% of total profit.  
+- **Revisit underperforming categories** like General Medicine and Surgery.  
+- **Monitor quarterly dips (2023)** for root-cause analysis — possibly linked to doctor capacity or patient churn.
+
+### 🔹 Operational Insights  
+- Gender balance is healthy, but **female doctors show higher patient retention**.  
+- Encourage **cross-department referrals** among top-performing specialties.  
+- Consider **targeted campaigns** in underperforming states (New York).
+
+### 🔹 Strategic Recommendations  
+1️⃣ Launch a performance-based incentive program for top doctors.  
+2️⃣ Harness data-driven strategies and regular monitoring to reduce idle capacity.  
+3️⃣ Expand marketing or ads for profitable procedures in high-margin departments.  
+4️⃣ Automate reporting with Power BI to track monthly KPIs.  
+
+---
+
+## 🧠 Learning Outcome  
+This project enhanced my proficiency in:
+- Data cleaning, transformation, and DAX measures in Power BI.  
+- Designing interactive dashboards that merge **financial** and **operational KPIs**.  
+- Translating complex datasets into **clear, actionable healthcare insights**.  
+
+---
+
+⚠️ Disclaimer
+
+This project is for educational and portfolio demonstration only. The data is simulated and does not represent any real organisation.
+
+---
+
+### 🔗 Connect With Me
+Sunday A. Adedeji
+📧 sundayadedeji001@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sunday-adedeji/) 
+📊 **Full Dashboard File:** *(https://app.powerbi.com/links/qD64UJkcln?ctid=009b81c9-9d54-4181-bd95-cf7f6d431b86&pbi_source=linkShare)*

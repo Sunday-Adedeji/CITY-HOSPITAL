@@ -74,28 +74,20 @@ The goal was to equip City Hospital with **real-time, data-backed visibility** i
 - Year 2022 marked the **highest quarterly growth**, followed by a dip in 2023, signaling possible operational slowdowns.  
 
 **Dashboard Preview:**  
-**Hospital Transaction Dashboard - Main** <img width="1377" height="746" alt="image" src="https://github.com/user-attachments/assets/0f19eb09-96d3-4ad2-9456-23eb42b07a3b" />
+**Hospital Transaction Dashboard** <img width="1377" height="746" alt="image" src="https://github.com/user-attachments/assets/0f19eb09-96d3-4ad2-9456-23eb42b07a3b" />
 
 **Filter Highlights:**  
 | Filter | Dashboard Preview | Observation |
 |--------|-------------------|----------------|
 | 👩‍⚕️ Doctor Gender – Female | <img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/edb1ff6e-b790-4396-8797-b9b16fef2aaa" /> | Female doctors generated ~$130K revenue (~47% share |
-| 👨‍⚕️ Doctor Gender – Male | ![Male Doctors Filter](<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/3221e38f-e92e-4e1b-8df9-8cecf0e83660" />
-) | Male doctors led with ~$144K revenue, slightly higher profit margin. |
-| 👩 Patients – Female | ![Female Patients Filter](<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/9674edaf-2aff-433b-aa2e-b61b472d9847" />
-) | Strong engagement in Dermatology and Cardiology. |
-| 👨 Patients – Male | ![Male Patients Filter](<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/fac11766-aeb6-4fd3-96b6-b2e2e79bff14" />
-) | Neurology procedures dominated male patient revenue. |
-| 📍 California | ![California State Filter](<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/7f062b1e-20c3-4ece-89a6-62fa6b9d6102" />
-) | Outperformed New York in overall revenue and efficiency. |
-| 📍 New York | ![New York State Filter](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/ccf85cf7-d07c-4745-8ce0-c5aad013e0dc" />
-) | Dermatology was the leading department. |
-| 📅 2021 | ![Year 2021 Filter](<img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/b8fcabd4-764a-4dcc-9ce1-ace940cbbe6f" />
-) | Post-pandemic recovery, lowest annual revenue. |
-| 📅 2022 | ![Year 2022 Filter](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/544521ea-0194-43ac-bd3e-429a5dd09572" />
-) | Peak operational performance. |
-| 📅 2023 | ![Year 2023 Filter](<img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/58c42ffb-ff06-4895-b5d9-bdf0c2384f4c" />
-) | Noticeable decline, warrants investigation. |
+| 👨‍⚕️ Doctor Gender – Male | <img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/3221e38f-e92e-4e1b-8df9-8cecf0e83660" /> | Male doctors led with ~$144K revenue, slightly higher profit margin. |
+| 👩 Patients – Female | <img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/9674edaf-2aff-433b-aa2e-b61b472d9847" /> | Strong engagement in Dermatology and Cardiology. |
+| 👨 Patients – Male | <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/fac11766-aeb6-4fd3-96b6-b2e2e79bff14" /> | Neurology procedures dominated male patient revenue. |
+| 📍 California | <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/7f062b1e-20c3-4ece-89a6-62fa6b9d6102" /> | Outperformed New York in overall revenue and efficiency. |
+| 📍 New York | <img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/ccf85cf7-d07c-4745-8ce0-c5aad013e0dc" /> | Dermatology was the leading department. |
+| 📅 2021 | <img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/b8fcabd4-764a-4dcc-9ce1-ace940cbbe6f" /> | Post-pandemic recovery, lowest annual revenue. |
+| 📅 2022 | <img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/544521ea-0194-43ac-bd3e-429a5dd09572" /> | Peak operational performance. |
+| 📅 2023 | <img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/58c42ffb-ff06-4895-b5d9-bdf0c2384f4c" /> | Noticeable decline, warrants investigation. |
 
 ---
 

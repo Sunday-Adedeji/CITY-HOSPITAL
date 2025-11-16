@@ -6,6 +6,7 @@ A data-driven analytics project focused on improving financial performance, oper
 
 ## 📘 Project Overview  
 City Hospital, a renowned medical institution, recognised the growing need to **leverage data for better financial and operational decision-making**.  
+
 For years, strategic choices were driven by intuition and historical trends, leaving room for inefficiencies, resource imbalance, and lost opportunities.  
 
 This project uses **Microsoft Power BI** to transform their Excel-based transaction data into **interactive, data-driven dashboards** that reveal financial health, doctor and patient performance, and hospital-wide insights.  
@@ -16,7 +17,8 @@ This project uses **Microsoft Power BI** to transform their Excel-based transact
 - **Tool Used:** Power BI  
 - **Data Source:** Excel (Hospital Transaction Dataset)  
 - **Core Process:**
-  1️⃣ Data Cleaning and Integration  
+
+   1️⃣ Data Cleaning and Integration  
   2️⃣ Data Modelling and Relationship Building  
   3️⃣ DAX Calculations for Key Metrics  
   4️⃣ Interactive Dashboard Creation  

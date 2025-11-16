@@ -74,20 +74,30 @@ The goal was to equip City Hospital with **real-time, data-backed visibility** i
 - Year 2022 marked the **highest quarterly growth**, followed by a dip in 2023, signaling possible operational slowdowns.  
 
 **Dashboard Preview:**  
-![Hospital Transaction Dashboard - Main](path/to/Hospital_Transaction_Main.png)
+![Hospital Transaction Dashboard - Main](<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/e3fbf75c-2d97-48e1-9eb5-b8b4c62c409b" />
+)
 
 **Filter Highlights:**  
 | Filter | Dashboard Preview | Observation |
 |--------|-------------------|--------------|
-| 👩‍⚕️ Doctor Gender – Female | ![Female Doctors Filter](path/to/Female_Doctor_Filter.png) | Female doctors generated ~$130K revenue (~47% share). |
-| 👨‍⚕️ Doctor Gender – Male | ![Male Doctors Filter](path/to/Male_Doctor_Filter.png) | Male doctors led with ~$144K revenue, slightly higher profit margin. |
-| 👩 Patients – Female | ![Female Patients Filter](path/to/Female_Patient_Filter.png) | Strong engagement in Dermatology and Cardiology. |
-| 👨 Patients – Male | ![Male Patients Filter](path/to/Male_Patient_Filter.png) | Neurology procedures dominated male patient revenue. |
-| 📍 California | ![California State Filter](path/to/California_Filter.png) | Outperformed New York in overall revenue and efficiency. |
-| 📍 New York | ![New York State Filter](path/to/NewYork_Filter.png) | Dermatology was the leading department. |
-| 📅 2021 | ![Year 2021 Filter](path/to/2021_Filter.png) | Post-pandemic recovery, lowest annual revenue. |
-| 📅 2022 | ![Year 2022 Filter](path/to/2022_Filter.png) | Peak operational performance. |
-| 📅 2023 | ![Year 2023 Filter](path/to/2023_Filter.png) | Noticeable decline, warrants investigation. |
+| 👩‍⚕️ Doctor Gender – Female | ![Female Doctors Filter](<img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/edb1ff6e-b790-4396-8797-b9b16fef2aaa" />
+) | Female doctors generated ~$130K revenue (~47% share). |
+| 👨‍⚕️ Doctor Gender – Male | ![Male Doctors Filter](<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/3221e38f-e92e-4e1b-8df9-8cecf0e83660" />
+) | Male doctors led with ~$144K revenue, slightly higher profit margin. |
+| 👩 Patients – Female | ![Female Patients Filter](<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/9674edaf-2aff-433b-aa2e-b61b472d9847" />
+) | Strong engagement in Dermatology and Cardiology. |
+| 👨 Patients – Male | ![Male Patients Filter](<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/fac11766-aeb6-4fd3-96b6-b2e2e79bff14" />
+) | Neurology procedures dominated male patient revenue. |
+| 📍 California | ![California State Filter](<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/7f062b1e-20c3-4ece-89a6-62fa6b9d6102" />
+) | Outperformed New York in overall revenue and efficiency. |
+| 📍 New York | ![New York State Filter](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/ccf85cf7-d07c-4745-8ce0-c5aad013e0dc" />
+) | Dermatology was the leading department. |
+| 📅 2021 | ![Year 2021 Filter](<img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/b8fcabd4-764a-4dcc-9ce1-ace940cbbe6f" />
+) | Post-pandemic recovery, lowest annual revenue. |
+| 📅 2022 | ![Year 2022 Filter](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/544521ea-0194-43ac-bd3e-429a5dd09572" />
+) | Peak operational performance. |
+| 📅 2023 | ![Year 2023 Filter](<img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/58c42ffb-ff06-4895-b5d9-bdf0c2384f4c" />
+) | Noticeable decline, warrants investigation. |
 
 ---
 
@@ -121,20 +131,30 @@ The goal was to equip City Hospital with **real-time, data-backed visibility** i
 | Olivia Brown | $12K |
 
 **Dashboard Preview:**  
-![Hospital Performance Dashboard - Main](path/to/Hospital_Performance_Main.png)
+![Hospital Performance Dashboard - Main](<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/8f715a36-1db3-4569-a6db-3e38f5b6ece0" />
+)
 
 **Filter Highlights:**  
 | Filter | Dashboard Preview | Observation |
 |--------|-------------------|--------------|
-| 👩‍⚕️ Female Doctors | ![Female Doctors Filter 2](path/to/Female_Doctor_Performance.png) | Ava Adams led with $25K revenue. |
-| 👨‍⚕️ Male Doctors | ![Male Doctors Filter 2](path/to/Male_Doctor_Performance.png) | Liam Thompson generated the highest $20K revenue. |
-| 👩 Female Patients | ![Female Patients Filter 2](path/to/Female_Patient_Performance.png) | Female patients had higher visit frequency. |
-| 👨 Male Patients | ![Male Patients Filter 2](path/to/Male_Patient_Performance.png) | Male patients contributed more to overall revenue. |
-| 📍 California | ![California State Filter 2](path/to/California_Performance.png) | Most patient interactions from Neurology and Cardiology. |
-| 📍 New York | ![New York State Filter 2](path/to/NewYork_Performance.png) | Dermatology and Radiology dominated revenue. |
-| 📅 2021 | ![2021 Performance](path/to/2021_Performance.png) | Limited operations but balanced gender distribution. |
-| 📅 2022 | ![2022 Performance](path/to/2022_Performance.png) | Record-breaking year with highest profit. |
-| 📅 2023 | ![2023 Performance](path/to/2023_Performance.png) | Decline in both doctor engagement and patient visits. |
+| 👩‍⚕️ Female Doctors | ![Female Doctors Filter 2](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/d31ef2e0-ba22-47eb-8338-dfb91373368e" />
+) | Ava Adams led with $25K revenue. |
+| 👨‍⚕️ Male Doctors | ![Male Doctors Filter 2](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/1b83cb16-12b6-4944-bff5-4235bbef303b" />
+) | Liam Thompson generated the highest $20K revenue. |
+| 👩 Female Patients | ![Female Patients Filter 2](<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/ecbd600f-b764-4918-ab8b-9a440ae6c297" />
+) | Female patients had higher visit frequency. |
+| 👨 Male Patients | ![Male Patients Filter 2](<img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/88bf85dc-52fa-4649-96d2-029c5160c815" />
+) | Male patients contributed more to overall revenue. |
+| 📍 California | ![California State Filter 2](<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/1a4f2c7c-ba02-4e5d-bd43-e9c6347df92f" />
+) | Most patient interactions from Neurology and Cardiology. |
+| 📍 New York | ![New York State Filter 2](<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/ad82a608-7d0c-45e7-a261-fe9be5b7845a" />
+) | Dermatology and Radiology dominated revenue. |
+| 📅 2021 | ![2021 Performance](<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/7fe5be1b-8cfe-4f12-8c94-374b5c8649ac" />
+) | Limited operations but balanced gender distribution. |
+| 📅 2022 | ![2022 Performance](<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/5e5be9ff-98cc-431b-817a-57b9c668b4d9" />
+) | Record-breaking year with highest profit. |
+| 📅 2023 | ![2023 Performance](<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/78de86e7-720e-4fee-9556-a3100a3e0f5d" />
+) | Decline in both doctor engagement and patient visits. |
 
 ---
 

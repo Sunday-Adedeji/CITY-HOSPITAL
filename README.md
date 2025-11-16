@@ -74,8 +74,7 @@ The goal was to equip City Hospital with **real-time, data-backed visibility** i
 - Year 2022 marked the **highest quarterly growth**, followed by a dip in 2023, signaling possible operational slowdowns.  
 
 **Dashboard Preview:**  
-![Hospital Transaction Dashboard - Main](<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/e3fbf75c-2d97-48e1-9eb5-b8b4c62c409b" />
-)
+![Hospital Transaction Dashboard - Main](<img width="1377" height="746" alt="image" src="https://github.com/user-attachments/assets/0f19eb09-96d3-4ad2-9456-23eb42b07a3b" />)
 
 **Filter Highlights:**  
 | Filter | Dashboard Preview | Observation |

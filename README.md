@@ -175,7 +175,11 @@ This project is for educational and portfolio demonstration only. The data is si
 ---
 
 ### 🔗 Connect With Me
+
 Sunday A. Adedeji
+
 📧 sundayadedeji001@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/sunday-adedeji/) 
+
 📊 **Full Dashboard File:** *(https://app.powerbi.com/links/qD64UJkcln?ctid=009b81c9-9d54-4181-bd95-cf7f6d431b86&pbi_source=linkShare)*

@@ -74,13 +74,12 @@ The goal was to equip City Hospital with **real-time, data-backed visibility** i
 - Year 2022 marked the **highest quarterly growth**, followed by a dip in 2023, signaling possible operational slowdowns.  
 
 **Dashboard Preview:**  
-[Hospital Transaction Dashboard - Main](<img width="1377" height="746" alt="image" src="https://github.com/user-attachments/assets/0f19eb09-96d3-4ad2-9456-23eb42b07a3b" />)
+**Hospital Transaction Dashboard - Main** <img width="1377" height="746" alt="image" src="https://github.com/user-attachments/assets/0f19eb09-96d3-4ad2-9456-23eb42b07a3b" />
 
 **Filter Highlights:**  
 | Filter | Dashboard Preview | Observation |
 |--------|-------------------|----------------|
-| 👩‍⚕️ Doctor Gender – Female | ![Female Doctors Filter](<img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/edb1ff6e-b790-4396-8797-b9b16fef2aaa" />
-) | Female doctors generated ~$130K revenue (~47% share). |
+| 👩‍⚕️ Doctor Gender – Female | <img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/edb1ff6e-b790-4396-8797-b9b16fef2aaa" /> | Female doctors generated ~$130K revenue (~47% share |
 | 👨‍⚕️ Doctor Gender – Male | ![Male Doctors Filter](<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/3221e38f-e92e-4e1b-8df9-8cecf0e83660" />
 ) | Male doctors led with ~$144K revenue, slightly higher profit margin. |
 | 👩 Patients – Female | ![Female Patients Filter](<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/9674edaf-2aff-433b-aa2e-b61b472d9847" />
